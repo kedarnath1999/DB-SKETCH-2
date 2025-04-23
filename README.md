@@ -5,6 +5,9 @@ This project implements several variants of logistic regression models optimized
 ## Data Source:
 https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/binary.html
 
+RCV1: https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/binary/rcv1_test.binary.bz2
+URL: https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/binary/url_combined.bz2
+
 ## Methods Implemented
 
 1. **Uncompressed Logistic Regression**
