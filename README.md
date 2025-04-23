@@ -2,6 +2,9 @@
 
 This project implements several variants of logistic regression models optimized for data streams and high-dimensional sparse datasets.
 
+## Data Source:
+https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/binary.html
+
 ## Methods Implemented
 
 1. **Uncompressed Logistic Regression**
